@@ -1,0 +1,9 @@
+body {
+  font-family: sans-serif;
+}
+
+video {
+  border: 1px solid black;
+  width: 640px;
+  height: 480px;
+}
